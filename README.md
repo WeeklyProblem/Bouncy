@@ -6,3 +6,4 @@
 3. Follow instructions on-screen.
 4. Enter https://raw.githubusercontent.com/WeeklyProblem/Bouncy/main/bouncy.min.js
 5. Click done in app.
+6. (Optional) Delete Express packages as it may contain duplicate providers.

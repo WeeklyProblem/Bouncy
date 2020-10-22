@@ -1,1 +1,8 @@
 # Bouncy
+
+## Installation
+1. Open Syncler.
+2. Open Settings > Provider packages > Install > **Kosmos**
+3. Follow instructions on-screen.
+4. Enter https://raw.githubusercontent.com/WeeklyProblem/Bouncy/main/bouncy.min.js
+5. Click done in app.

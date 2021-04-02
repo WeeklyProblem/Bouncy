@@ -2,11 +2,9 @@
 
 ## Installation
 
-1. Download this Apk file: https://raw.githubusercontent.com/WeeklyProblem/Bouncy/main/installer.provisioned.bouncy.apk
-2. Install this Apk file on your device.
-3. Follow in app instructions to install Syncler on your device.
-4. Open Syncler.
-5. Done.
+1. Download and install [this apk](https://raw.githubusercontent.com/WeeklyProblem/Bouncy/main/installer.provisioned.bouncy.apk)
+2. Follow in app instructions to install Syncler on your device.
+3. Open Syncler and click play.
 
 
 ## Alternate ways to install
